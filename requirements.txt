@@ -1,0 +1,11 @@
+# CrewAI Framework 依赖
+
+# 核心依赖
+requests>=2.25.0
+python-dotenv>=1.0.0
+
+# DashScope SDK（联网搜索必需）
+dashscope>=1.14.0
+
+# 可选：OpenAI SDK（兼容模式，如使用 OpenAI 模型）
+# openai>=1.0.0
