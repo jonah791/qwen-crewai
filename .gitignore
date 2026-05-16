@@ -16,10 +16,20 @@ venv/
 .vscode/
 .idea/
 *.swp
+*.swo
 
 # 日志
 *.log
+logs/
 
 # 输出文件
 *.txt
 !requirements.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node
+node_modules/
